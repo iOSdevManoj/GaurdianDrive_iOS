@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23727" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23721"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PlusJakartaSans-Bold.ttf">
+            <string>PlusJakartaSans-Bold</string>
+        </array>
+        <array key="PlusJakartaSans-Medium.ttf">
+            <string>PlusJakartaSans-Medium</string>
+        </array>
+        <array key="PlusJakartaSans-Regular.ttf">
+            <string>PlusJakartaSans-Regular</string>
+        </array>
+        <array key="PlusJakartaSans-SemiBold.ttf">
+            <string>PlusJakartaSans-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CellForPlans" id="gTV-IL-0wX" customClass="CellForPlans" customModule="GaurdianDrive" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="144" height="162"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="144" height="162"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="atT-Wr-lMp">
+                        <rect key="frame" x="4" y="4" width="136" height="154"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ket-Hu-ahK">
+                                <rect key="frame" x="0.0" y="0.0" width="136" height="35"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BASIC" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9P4-jT-2uw">
+                                        <rect key="frame" x="48" y="9.3333333333333339" width="40.333333333333343" height="16.666666666666664"/>
+                                        <fontDescription key="fontDescription" name="PlusJakartaSans-Bold" family="Plus Jakarta Sans" pointSize="13"/>
+                                        <color key="textColor" name="WhiteColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" name="AppDarkBlue"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="G8W-AS-jqr"/>
+                                    <constraint firstItem="9P4-jT-2uw" firstAttribute="centerX" secondItem="Ket-Hu-ahK" secondAttribute="centerX" id="HZg-Hq-mqE"/>
+                                    <constraint firstItem="9P4-jT-2uw" firstAttribute="centerY" secondItem="Ket-Hu-ahK" secondAttribute="centerY" id="Pru-oA-Sce"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1 Child Included" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tLj-8Y-axf">
+                                <rect key="frame" x="2" y="47" width="132" height="15.333333333333336"/>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-Regular" family="Plus Jakarta Sans" pointSize="12"/>
+                                <color key="textColor" name="AppDarkBlue"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$4.99/Month" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1iV-Lu-JwP">
+                                <rect key="frame" x="2" y="72.333333333333329" width="132" height="16.666666666666671"/>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-SemiBold" family="Plus Jakarta Sans" pointSize="13"/>
+                                <color key="textColor" name="AppDarkBlue"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="or $55.99/Yearly" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gzg-Vh-kBe">
+                                <rect key="frame" x="1" y="93" width="134" height="15.333333333333329"/>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-Regular" family="Plus Jakarta Sans" pointSize="12"/>
+                                <color key="textColor" name="AppDarkBlue"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Choose Plan" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="f4U-BK-pTT">
+                                <rect key="frame" x="0.0" y="124" width="136" height="30"/>
+                                <color key="backgroundColor" name="AppDarkBlue"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="jRt-OR-gYL"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-Medium" family="Plus Jakarta Sans" pointSize="12"/>
+                                <color key="textColor" name="WhiteColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" name="WhiteColor"/>
+                        <constraints>
+                            <constraint firstItem="gzg-Vh-kBe" firstAttribute="leading" secondItem="atT-Wr-lMp" secondAttribute="leading" constant="1" id="53b-Ro-Ogb"/>
+                            <constraint firstItem="gzg-Vh-kBe" firstAttribute="top" secondItem="1iV-Lu-JwP" secondAttribute="bottom" constant="4" id="6AI-vg-zXI"/>
+                            <constraint firstAttribute="trailing" secondItem="f4U-BK-pTT" secondAttribute="trailing" id="6hV-JK-vNq"/>
+                            <constraint firstItem="tLj-8Y-axf" firstAttribute="leading" secondItem="atT-Wr-lMp" secondAttribute="leading" constant="2" id="KAN-5R-tt7"/>
+                            <constraint firstItem="1iV-Lu-JwP" firstAttribute="top" secondItem="tLj-8Y-axf" secondAttribute="bottom" constant="10" id="Lrw-fS-bgj"/>
+                            <constraint firstAttribute="trailing" secondItem="1iV-Lu-JwP" secondAttribute="trailing" constant="2" id="Mwp-Gz-bDm"/>
+                            <constraint firstItem="1iV-Lu-JwP" firstAttribute="leading" secondItem="atT-Wr-lMp" secondAttribute="leading" constant="2" id="OPD-RC-Gwu"/>
+                            <constraint firstItem="tLj-8Y-axf" firstAttribute="top" secondItem="Ket-Hu-ahK" secondAttribute="bottom" constant="12" id="R1r-bf-9Oq"/>
+                            <constraint firstAttribute="trailing" secondItem="tLj-8Y-axf" secondAttribute="trailing" constant="2" id="ddj-6d-dwA"/>
+                            <constraint firstItem="f4U-BK-pTT" firstAttribute="leading" secondItem="atT-Wr-lMp" secondAttribute="leading" id="fsc-Jt-Ac6"/>
+                            <constraint firstAttribute="trailing" secondItem="Ket-Hu-ahK" secondAttribute="trailing" id="gf0-e9-34c"/>
+                            <constraint firstAttribute="bottom" secondItem="f4U-BK-pTT" secondAttribute="bottom" id="hWt-w9-rmY"/>
+                            <constraint firstItem="Ket-Hu-ahK" firstAttribute="top" secondItem="atT-Wr-lMp" secondAttribute="top" id="lTZ-sW-902"/>
+                            <constraint firstAttribute="trailing" secondItem="gzg-Vh-kBe" secondAttribute="trailing" constant="1" id="lVH-Uu-NmP"/>
+                            <constraint firstItem="Ket-Hu-ahK" firstAttribute="leading" secondItem="atT-Wr-lMp" secondAttribute="leading" id="nbK-I7-Niy"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" name="AppDarkBlue"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderwidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="atT-Wr-lMp" secondAttribute="bottom" constant="4" id="BpE-eY-0p5"/>
+                <constraint firstItem="atT-Wr-lMp" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="4" id="Lio-Gx-V5G"/>
+                <constraint firstItem="atT-Wr-lMp" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="4" id="iIW-nv-9MT"/>
+                <constraint firstAttribute="trailing" secondItem="atT-Wr-lMp" secondAttribute="trailing" constant="4" id="pus-Ng-BO3"/>
+            </constraints>
+            <size key="customSize" width="144" height="160"/>
+            <connections>
+                <outlet property="lblIncludeChild" destination="tLj-8Y-axf" id="jfh-g8-4LW"/>
+                <outlet property="lblMonthly" destination="1iV-Lu-JwP" id="AhJ-TO-HUr"/>
+                <outlet property="lblTitle" destination="9P4-jT-2uw" id="8Zr-IZ-2gM"/>
+                <outlet property="lblYearly" destination="gzg-Vh-kBe" id="XlO-RD-V8Y"/>
+                <outlet property="viewBottom" destination="f4U-BK-pTT" id="Pqi-Vg-QgN"/>
+                <outlet property="viewMain" destination="atT-Wr-lMp" id="uAD-7S-QOv"/>
+                <outlet property="viewTitle" destination="Ket-Hu-ahK" id="0bX-0k-A5D"/>
+            </connections>
+            <point key="canvasLocation" x="213.74045801526717" y="27.464788732394368"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="AppDarkBlue">
+            <color red="0.10196078431372549" green="0.18823529411764706" blue="0.38039215686274508" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="WhiteColor">
+            <color red="0.99607843137254903" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,136 @@
+{
+  "source": "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/ParentControl/ParentControlView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Parental Control",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 319
+        }
+      },
+      {
+        "comment": "",
+        "key": "App selection limit",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove All Apps",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 325
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select Apps to Block",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Up to %lld apps",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "• %lld selected",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove All",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "No apps selected",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap + to choose up to %lld apps. Select each app individually (do not use Select All).",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "All apps have been removed from the blocking list",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Selected Apps (%lld/%lld)",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 307
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 321
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 326
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove All",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 327
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to remove all %lld selected apps from the blocking list?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 332
+        }
+      }
+    ]
+  },
+  "version": 1
+}

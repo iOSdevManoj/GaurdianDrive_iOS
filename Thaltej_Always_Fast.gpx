@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:ns1="https://lockito-app.com/import-gpx-2.xsd" creator="Lockito 2.0" version="3000033">
+    <metadata>
+        <name>Thaltej Tracking</name>
+        <extensions>
+            <ns1:loop>false</ns1:loop>
+        </extensions>
+    </metadata>
+    <wpt lat="23.050842" lon="72.518753">
+        <time>2026-05-07T10:00:00Z</time>
+    </wpt>
+    <wpt lat="23.051471" lon="72.519576">
+        <time>2026-05-07T10:00:03Z</time>
+    </wpt>
+    <wpt lat="23.051421" lon="72.520642">
+        <time>2026-05-07T10:00:06Z</time>
+    </wpt>
+    <wpt lat="23.051403" lon="72.520845">
+        <time>2026-05-07T10:00:09Z</time>
+    </wpt>
+    <wpt lat="23.052417" lon="72.520850">
+        <time>2026-05-07T10:00:12Z</time>
+    </wpt>
+    <wpt lat="23.052764" lon="72.520774">
+        <time>2026-05-07T10:00:15Z</time>
+    </wpt>
+    <wpt lat="23.053394" lon="72.520537">
+        <time>2026-05-07T10:00:18Z</time>
+    </wpt>
+    <wpt lat="23.053833" lon="72.520480">
+        <time>2026-05-07T10:00:21Z</time>
+    </wpt>
+    <wpt lat="23.054259" lon="72.520674">
+        <time>2026-05-07T10:00:24Z</time>
+    </wpt>
+    <wpt lat="23.054898" lon="72.520988">
+        <time>2026-05-07T10:00:27Z</time>
+    </wpt>
+    <wpt lat="23.054948" lon="72.521011">
+        <time>2026-05-07T10:00:30Z</time>
+    </wpt>
+    <wpt lat="23.054992" lon="72.521031">
+        <time>2026-05-07T10:00:33Z</time>
+    </wpt>
+    <wpt lat="23.055052" lon="72.521108">
+        <time>2026-05-07T10:00:36Z</time>
+    </wpt>
+    <wpt lat="23.054969" lon="72.521336">
+        <time>2026-05-07T10:00:39Z</time>
+    </wpt>
+    <wpt lat="23.054614" lon="72.522165">
+        <time>2026-05-07T10:00:42Z</time>
+    </wpt>
+    <wpt lat="23.054224" lon="72.522997">
+        <time>2026-05-07T10:00:45Z</time>
+    </wpt>
+    <wpt lat="23.053815" lon="72.523889">
+        <time>2026-05-07T10:00:48Z</time>
+    </wpt>
+    <wpt lat="23.053655" lon="72.524232">
+        <time>2026-05-07T10:00:51Z</time>
+    </wpt>
+    <wpt lat="23.053576" lon="72.524214">
+        <time>2026-05-07T10:00:54Z</time>
+    </wpt>
+    <wpt lat="23.053724" lon="72.523866">
+        <time>2026-05-07T10:00:57Z</time>
+    </wpt>
+    <wpt lat="23.053857" lon="72.523552">
+        <time>2026-05-07T10:01:00Z</time>
+    </wpt>
+    <wpt lat="23.054113" lon="72.522964">
+        <time>2026-05-07T10:01:03Z</time>
+    </wpt>
+    <wpt lat="23.054863" lon="72.521323">
+        <time>2026-05-07T10:01:06Z</time>
+    </wpt>
+    <wpt lat="23.054957" lon="72.521016">
+        <time>2026-05-07T10:01:09Z</time>
+    </wpt>
+    <wpt lat="23.054888" lon="72.520967">
+        <time>2026-05-07T10:01:12Z</time>
+    </wpt>
+    <wpt lat="23.054533" lon="72.520795">
+        <time>2026-05-07T10:01:15Z</time>
+    </wpt>
+    <wpt lat="23.054210" lon="72.520645">
+        <time>2026-05-07T10:01:18Z</time>
+    </wpt>
+    <wpt lat="23.053998" lon="72.520537">
+        <time>2026-05-07T10:01:21Z</time>
+    </wpt>
+    <wpt lat="23.053712" lon="72.520466">
+        <time>2026-05-07T10:01:24Z</time>
+    </wpt>
+    <wpt lat="23.053403" lon="72.520530">
+        <time>2026-05-07T10:01:27Z</time>
+    </wpt>
+    <wpt lat="23.052485" lon="72.520829">
+        <time>2026-05-07T10:01:30Z</time>
+    </wpt>
+    <wpt lat="23.051543" lon="72.520850">
+        <time>2026-05-07T10:01:33Z</time>
+    </wpt>
+    <wpt lat="23.051451" lon="72.520387">
+        <time>2026-05-07T10:01:36Z</time>
+    </wpt>
+    <wpt lat="23.051468" lon="72.519802">
+        <time>2026-05-07T10:01:39Z</time>
+    </wpt>
+    <wpt lat="23.051470" lon="72.519160">
+        <time>2026-05-07T10:01:42Z</time>
+    </wpt>
+    <trk>
+        <trkseg>
+            <trkpt lat="23.050842" lon="72.518753" />
+            <trkpt lat="23.051471" lon="72.519576" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.051471" lon="72.519576" />
+            <trkpt lat="23.051421" lon="72.520642" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.051421" lon="72.520642" />
+            <trkpt lat="23.051403" lon="72.520845" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.051403" lon="72.520845" />
+            <trkpt lat="23.052417" lon="72.520850" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.052417" lon="72.520850" />
+            <trkpt lat="23.052764" lon="72.520774" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.052764" lon="72.520774" />
+            <trkpt lat="23.054898" lon="72.520988" />
+                <extensions>
+                    <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                    <ns1:altitude>fixed:0.0</ns1:altitude>
+                </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054898" lon="72.520988" />
+            <trkpt lat="23.054948" lon="72.521011" />
+                <extensions>
+                    <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                    <ns1:altitude>fixed:0.0</ns1:altitude>
+                </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054948" lon="72.521011" />
+            <trkpt lat="23.054992" lon="72.521031" />
+                <extensions>
+                    <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                    <ns1:altitude>fixed:0.0</ns1:altitude>
+                </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054992" lon="72.521031" />
+            <trkpt lat="23.055052" lon="72.521108" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.055052" lon="72.521108" />
+            <trkpt lat="23.054969" lon="72.521336" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054969" lon="72.521336" />
+            <trkpt lat="23.054614" lon="72.522165" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054614" lon="72.522165" />
+            <trkpt lat="23.054224" lon="72.522997" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054224" lon="72.522997" />
+            <trkpt lat="23.053815" lon="72.523889" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053815" lon="72.523889" />
+            <trkpt lat="23.053655" lon="72.524232" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053655" lon="72.524232" />
+            <trkpt lat="23.053576" lon="72.524214" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053576" lon="72.524214" />
+            <trkpt lat="23.053724" lon="72.523866" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053724" lon="72.523866" />
+            <trkpt lat="23.053857" lon="72.523552" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053857" lon="72.523552" />
+            <trkpt lat="23.054113" lon="72.522964" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054113" lon="72.522964" />
+            <trkpt lat="23.054863" lon="72.521323" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054863" lon="72.521323" />
+            <trkpt lat="23.054957" lon="72.521016" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054957" lon="72.521016" />
+            <trkpt lat="23.054888" lon="72.520967" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054888" lon="72.520967" />
+            <trkpt lat="23.054533" lon="72.520795" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054533" lon="72.520795" />
+            <trkpt lat="23.054210" lon="72.520645" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.054210" lon="72.520645" />
+            <trkpt lat="23.053998" lon="72.520537" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053998" lon="72.520537" />
+            <trkpt lat="23.053712" lon="72.520466" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053712" lon="72.520466" />
+            <trkpt lat="23.053403" lon="72.520530" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.053403" lon="72.520530" />
+            <trkpt lat="23.052485" lon="72.520829" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.052485" lon="72.520829" />
+            <trkpt lat="23.051543" lon="72.520850" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.051543" lon="72.520850" />
+            <trkpt lat="23.051451" lon="72.520387" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.051451" lon="72.520387" />
+            <trkpt lat="23.051468" lon="72.519802" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="23.051468" lon="72.519802" />
+            <trkpt lat="23.051470" lon="72.519160" />
+            <extensions>
+                <ns1:accuracy>random:2.0:4.0</ns1:accuracy>
+                <ns1:altitude>fixed:0.0</ns1:altitude>
+            </extensions>
+        </trkseg>
+    </trk>
+</gpx>

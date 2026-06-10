@@ -1,0 +1,72 @@
+{
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/OtherClasses/OTP Textfield/OTPTextField.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/OTPTextField.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/OTPTextField.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/OTPTextField.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/OTPTextField.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/OTPTextField.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/OtherClasses/Permissions/PermissionsManager.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/PermissionsManager.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/PermissionsManager.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/PermissionsManager.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/PermissionsManager.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/PermissionsManager.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Child Module/Views/CellForRequestApps.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForRequestApps.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForRequestApps.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForRequestApps.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForRequestApps.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForRequestApps.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Child Module/Views/ViewForNoDriveRequest.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ViewForNoDriveRequest.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ViewForNoDriveRequest.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ViewForNoDriveRequest.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ViewForNoDriveRequest.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ViewForNoDriveRequest.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Intro Screen/Controller/ChooseRoleVC.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ChooseRoleVC.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ChooseRoleVC.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ChooseRoleVC.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ChooseRoleVC.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ChooseRoleVC.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Intro Screen/Controller/IntroVC.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/IntroVC.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/IntroVC.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/IntroVC.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/IntroVC.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/IntroVC.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Intro Screen/Views/CellForIntro.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForIntro.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForIntro.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForIntro.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForIntro.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/CellForIntro.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Profile/Controller/EditProfileVC.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/EditProfileVC.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/EditProfileVC.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/EditProfileVC.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/EditProfileVC.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/EditProfileVC.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Report Tab/Controllers/ReportVC.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ReportVC.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ReportVC.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ReportVC.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ReportVC.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/ReportVC.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/View Controllers/Setting Tab/Controller/WebViewCommonVC.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/WebViewCommonVC.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/WebViewCommonVC.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/WebViewCommonVC.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/WebViewCommonVC.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/Objects-normal/x86_64/WebViewCommonVC.swiftdeps"
+  }
+}

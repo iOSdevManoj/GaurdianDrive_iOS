@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Products/Debug-iphonesimulator/FSPagerView/FSPagerView.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FSPagerView.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Products/Debug-iphonesimulator/FSPagerView/FSPagerView.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "FSPagerView-Swift.h",
+      "external-contents": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FSPagerView.build/unextended-interface-header.h",
+    }]
+  }]
+}

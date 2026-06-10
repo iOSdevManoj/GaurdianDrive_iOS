@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast-Swift-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast-Swift-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast-Swift-primary-emit-module.dia",
+    "pch" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast-Swift-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast-Swift-primary.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/Toast-Swift/Toast/Toast.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Toast-Swift.build/Objects-normal/x86_64/Toast~partial.swiftmodule"
+  }
+}

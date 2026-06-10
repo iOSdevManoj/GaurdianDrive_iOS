@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23727" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23721"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PlusJakartaSans-Medium.ttf">
+            <string>PlusJakartaSans-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="CellForopSpeedList" rowHeight="73" id="KGk-i7-Jjw" customClass="CellForopSpeedList" customModule="GaurdianDrive" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="73"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="73"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MVI-mB-Yct">
+                        <rect key="frame" x="12" y="5" width="296" height="63"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="9 Nov 2025 on 3:15 PM" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E5P-iB-CDV">
+                                <rect key="frame" x="10" y="9.9999999999999982" width="169.33333333333334" height="20.333333333333329"/>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-Medium" family="Plus Jakarta Sans" pointSize="16"/>
+                                <color key="textColor" name="AppDarkBlue"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="mph" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a6R-cy-BK9">
+                                <rect key="frame" x="248.66666666666666" y="34" width="34.666666666666657" height="20.333333333333329"/>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-Medium" family="Plus Jakarta Sans" pointSize="16"/>
+                                <color key="textColor" red="0.10196078431372549" green="0.18823529411764706" blue="0.38039215686274508" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8ST-fn-iRo">
+                                <rect key="frame" x="256" y="9.9999999999999982" width="20" height="20.333333333333329"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="68">
+                                        <attributes>
+                                            <color key="NSColor" name="AppRed"/>
+                                            <font key="NSFont" size="16" name="PlusJakartaSans-Bold"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sunday" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="koP-5N-SkO">
+                                <rect key="frame" x="9.9999999999999964" y="35.333333333333336" width="50.666666666666657" height="17.666666666666664"/>
+                                <fontDescription key="fontDescription" name="PlusJakartaSans-Medium" family="Plus Jakarta Sans" pointSize="14"/>
+                                <color key="textColor" name="PlaceholderGray"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="koP-5N-SkO" secondAttribute="bottom" constant="10" id="Cka-H4-h3z"/>
+                            <constraint firstItem="koP-5N-SkO" firstAttribute="leading" secondItem="E5P-iB-CDV" secondAttribute="leading" id="K6R-4W-0lF"/>
+                            <constraint firstItem="E5P-iB-CDV" firstAttribute="leading" secondItem="MVI-mB-Yct" secondAttribute="leading" constant="10" id="P6A-M1-lBV"/>
+                            <constraint firstItem="koP-5N-SkO" firstAttribute="top" secondItem="E5P-iB-CDV" secondAttribute="bottom" constant="5" id="WLU-TA-HnM"/>
+                            <constraint firstAttribute="trailing" secondItem="8ST-fn-iRo" secondAttribute="trailing" constant="20" id="eNL-Ji-h7Y"/>
+                            <constraint firstItem="E5P-iB-CDV" firstAttribute="top" secondItem="MVI-mB-Yct" secondAttribute="top" constant="10" id="fNI-jI-Dj6"/>
+                            <constraint firstItem="a6R-cy-BK9" firstAttribute="centerX" secondItem="8ST-fn-iRo" secondAttribute="centerX" id="gMU-w8-a5t"/>
+                            <constraint firstItem="8ST-fn-iRo" firstAttribute="centerY" secondItem="E5P-iB-CDV" secondAttribute="centerY" id="l87-U7-Sf2"/>
+                            <constraint firstItem="a6R-cy-BK9" firstAttribute="centerY" secondItem="koP-5N-SkO" secondAttribute="centerY" id="mDi-qQ-fMy"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="12"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" name="AppBorderGray"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderwidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="MVI-mB-Yct" secondAttribute="trailing" constant="12" id="NAE-FF-RHZ"/>
+                    <constraint firstItem="MVI-mB-Yct" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="OIb-k4-ZvZ"/>
+                    <constraint firstItem="MVI-mB-Yct" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="Qkz-Qo-huc"/>
+                    <constraint firstAttribute="bottom" secondItem="MVI-mB-Yct" secondAttribute="bottom" constant="5" id="mXb-iP-9EK"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" name="WhiteColor"/>
+            <connections>
+                <outlet property="lblDate" destination="E5P-iB-CDV" id="2l6-fL-dHb"/>
+                <outlet property="lblDay" destination="koP-5N-SkO" id="RvO-ng-bzF"/>
+                <outlet property="lblMph" destination="8ST-fn-iRo" id="bQ9-5m-CWY"/>
+            </connections>
+            <point key="canvasLocation" x="129.7709923664122" y="1.0563380281690142"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="AppBorderGray">
+            <color red="0.88627450980392153" green="0.88627450980392153" blue="0.88627450980392153" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="AppDarkBlue">
+            <color red="0.10196078431372549" green="0.18823529411764706" blue="0.38039215686274508" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="AppRed">
+            <color red="0.83137254901960789" green="0.094117647058823528" blue="0.23921568627450981" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="PlaceholderGray">
+            <color red="0.6588235294117647" green="0.6588235294117647" blue="0.6588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="WhiteColor">
+            <color red="0.99607843137254903" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

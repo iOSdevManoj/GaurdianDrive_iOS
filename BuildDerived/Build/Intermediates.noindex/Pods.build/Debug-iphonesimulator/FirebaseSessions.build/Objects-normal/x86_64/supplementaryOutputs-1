@@ -1,0 +1,23 @@
+{
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/FirebaseSessions/FirebaseSessions/Sources/ApplicationInfo.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/ApplicationInfo.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/ApplicationInfo.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/ApplicationInfo.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/ApplicationInfo.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/ApplicationInfo.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/FirebaseSessions/FirebaseSessions/Sources/Development/DevEventConsoleLogger.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/DevEventConsoleLogger.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/DevEventConsoleLogger.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/DevEventConsoleLogger.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/DevEventConsoleLogger.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/DevEventConsoleLogger.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/FirebaseSessions/FirebaseSessions/Sources/EventGDTLogger.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/EventGDTLogger.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/EventGDTLogger.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/EventGDTLogger.dia",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/EventGDTLogger.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/Objects-normal/x86_64/EventGDTLogger.swiftdeps"
+  }
+}

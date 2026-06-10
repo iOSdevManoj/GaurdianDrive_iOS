@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Antigravity">
+    <!-- Simulate a drive to test GuardianDrive speed-blocking logic (Threshold: 15 MPH) -->
+    
+    <!-- 1. Starting Point: Stationary (0 MPH) -->
+    <wpt lat="37.3317" lon="-122.0307">
+        <name>Start - Stationary</name>
+        <time>2026-05-06T12:00:00Z</time>
+    </wpt>
+    
+    <!-- 2. Accelerating: 10 MPH (Approx 4.5 m/s) -->
+    <wpt lat="37.3320" lon="-122.0307">
+        <name>Accelerating - 10 MPH</name>
+        <time>2026-05-06T12:00:10Z</time>
+    </wpt>
+    
+    <!-- 3. Above Threshold: 20 MPH (Approx 9 m/s) - SHIELDS SHOULD ACTIVATE -->
+    <wpt lat="37.3326" lon="-122.0307">
+        <name>Driving - 20 MPH</name>
+        <time>2026-05-06T12:00:20Z</time>
+    </wpt>
+    
+    <!-- 4. Maintaining Speed: 25 MPH -->
+    <wpt lat="37.3335" lon="-122.0307">
+        <name>Cruising - 25 MPH</name>
+        <time>2026-05-06T12:00:30Z</time>
+    </wpt>
+    
+    <!-- 5. Decelerating: 12 MPH - SHIELDS SHOULD DEACTIVATE -->
+    <wpt lat="37.3340" lon="-122.0307">
+        <name>Slowing Down - 12 MPH</name>
+        <time>2026-05-06T12:00:45Z</time>
+    </wpt>
+    
+    <!-- 6. Stopping -->
+    <wpt lat="37.3342" lon="-122.0307">
+        <name>Stopped</name>
+        <time>2026-05-06T12:01:00Z</time>
+    </wpt>
+</gpx>

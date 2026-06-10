@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Products/Debug-iphonesimulator/PromisesSwift/Promises.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Products/Debug-iphonesimulator/PromisesSwift/Promises.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "Promises-Swift.h",
+      "external-contents": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/unextended-interface-header.h",
+    }]
+  }]
+}

@@ -1,0 +1,89 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner-primary-emit-module.dia",
+    "pch" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner-primary.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/Configuration.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/Configuration~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/ImagePicker.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/ImagePicker~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/QRCodeError.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRCodeError~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/QRScannerFrame.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/QRScannerFrame~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/RoundButton.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/RoundButton~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/SwiftQRScanner.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScanner~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/SwiftQRScannerDelegate.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/SwiftQRScannerDelegate~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/SwiftQRScanner/Sources/SwiftQRCodeScanner/UIImage+Extension.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftQRScanner.build/Objects-normal/x86_64/UIImage+Extension~partial.swiftmodule"
+  }
+}

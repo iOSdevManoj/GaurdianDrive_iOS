@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics-primary-emit-module.dia",
+    "pch" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics-primary.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Rollouts/CrashlyticsRemoteConfigManager.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/CrashlyticsRemoteConfigManager~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Rollouts/EncodedRolloutAssignment.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/EncodedRolloutAssignment~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Rollouts/StringToHexConverter.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/StringToHexConverter~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GuardianDrive Test">
+  <!-- 
+    This GPX simulates a car driving at ~40-60 mph
+    Distance: ~2.5 km in ~2 minutes = ~75 km/h = ~46 mph
+    
+    How to use:
+    1. Run the app in iOS Simulator
+    2. In Xcode: Debug → Simulate Location → Add GPX File to Workspace
+    3. Select this GPX file
+    4. The simulated speed should trigger app blocking (>15 mph threshold)
+  -->
+  
+  <!-- Start point -->
+  <wpt lat="37.7749" lon="-122.4194">
+    <time>2026-01-01T12:00:00Z</time>
+  </wpt>
+  
+  <!-- Waypoints spaced to simulate ~50 mph driving -->
+  <wpt lat="37.7780" lon="-122.4150">
+    <time>2026-01-01T12:00:05Z</time>
+  </wpt>
+  
+  <wpt lat="37.7820" lon="-122.4090">
+    <time>2026-01-01T12:00:12Z</time>
+  </wpt>
+  
+  <wpt lat="37.7870" lon="-122.4020">
+    <time>2026-01-01T12:00:20Z</time>
+  </wpt>
+  
+  <wpt lat="37.7930" lon="-122.3940">
+    <time>2026-01-01T12:00:28Z</time>
+  </wpt>
+  
+  <wpt lat="37.8000" lon="-122.3850">
+    <time>2026-01-01T12:00:36Z</time>
+  </wpt>
+  
+  <wpt lat="37.8080" lon="-122.3750">
+    <time>2026-01-01T12:00:44Z</time>
+  </wpt>
+  
+  <wpt lat="37.8170" lon="-122.3640">
+    <time>2026-01-01T12:00:52Z</time>
+  </wpt>
+  
+  <wpt lat="37.8270" lon="-122.3520">
+    <time>2026-01-01T12:01:00Z</time>
+  </wpt>
+  
+  <wpt lat="37.8380" lon="-122.3390">
+    <time>2026-01-01T12:01:08Z</time>
+  </wpt>
+  
+  <wpt lat="37.8500" lon="-122.3250">
+    <time>2026-01-01T12:01:16Z</time>
+  </wpt>
+  
+  <wpt lat="37.8630" lon="-122.3100">
+    <time>2026-01-01T12:01:24Z</time>
+  </wpt>
+  
+  <wpt lat="37.8770" lon="-122.2940">
+    <time>2026-01-01T12:01:32Z</time>
+  </wpt>
+  
+  <wpt lat="37.8920" lon="-122.2770">
+    <time>2026-01-01T12:01:40Z</time>
+  </wpt>
+  
+  <wpt lat="37.9080" lon="-122.2590">
+    <time>2026-01-01T12:01:48Z</time>
+  </wpt>
+  
+  <!-- Continue driving in loop back -->
+  <wpt lat="37.9250" lon="-122.2400">
+    <time>2026-01-01T12:01:56Z</time>
+  </wpt>
+  
+  <wpt lat="37.9430" lon="-122.2200">
+    <time>2026-01-01T12:02:04Z</time>
+  </wpt>
+  
+  <!-- Slow down zone - speed drops below 15 mph -->
+  <wpt lat="37.9450" lon="-122.2180">
+    <time>2026-01-01T12:02:30Z</time>
+  </wpt>
+  
+  <wpt lat="37.9460" lon="-122.2170">
+    <time>2026-01-01T12:02:45Z</time>
+  </wpt>
+  
+  <wpt lat="37.9465" lon="-122.2165">
+    <time>2026-01-01T12:03:00Z</time>
+  </wpt>
+  
+  <!-- Back to fast driving -->
+  <wpt lat="37.9500" lon="-122.2100">
+    <time>2026-01-01T12:03:05Z</time>
+  </wpt>
+  
+  <wpt lat="37.9600" lon="-122.1950">
+    <time>2026-01-01T12:03:12Z</time>
+  </wpt>
+  
+  <wpt lat="37.9750" lon="-122.1750">
+    <time>2026-01-01T12:03:20Z</time>
+  </wpt>
+</gpx>

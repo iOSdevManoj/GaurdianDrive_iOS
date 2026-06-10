@@ -1,0 +1,120 @@
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/IAP\ Manager/IAPManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/GradientButton.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Views/ViewForReqAppSelection.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/ViewModel/ParentHomeViewModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/NSDateExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/BundleExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UITabBarControllerExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UserDefaultExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Controller/AddChildSettingVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Profile/Controller/ParentControlPasscodeVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Controller/AddChildVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Controller/HomeVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Address/Controllers/AddNewAddressVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Address/Controllers/AddressListVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Controller/MapViewVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Controller/NoDriveReqListVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Views/CellForAppsList.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Views/CellForChildName.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Notification/Model/NotificationModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/Config/FeatureFlag.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Views/ViewForManageApps.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Views/ViewForOptionAlert.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Permissions/ChildPermissionSyncManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UILabelExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/NSMutableArrayExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/NSDictionaryExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UITextViewExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/DictionaryExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Views/AppIconView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/ShareManager/AppState.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Auth\ Screens/Controller/BasicInfoVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Auth\ Screens/Controller/InvitationLinkVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/ParentControlView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Address/Views/CellForAddressList.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/BlockingCommand.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/BlockingSelection.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/PushNotificationManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Model/ChildRequestedApp.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/ViewModel/ChildHomeViewModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/AppBlockerManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Auth\ Screens/Controller/LoginRegisterVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Auth\ Screens/Model/UserModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Auth\ Screens/Controller/OTPVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Profile/Views/ViewForLogoutAlert.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Notification/Controller/NotificationListVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Auth\ Screens/Controller/SuccessMessageVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Socket\ Manager/GuardianSocketManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Controller/ChildHomeVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Views/CellForPlans.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Address/Model/ChildAddressModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Views/CellForRequestApps.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Permissions/PermissionsManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Report\ Tab/Controllers/ReportVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Intro\ Screen/Controller/ChooseRoleVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Views/ViewForNoDriveRequest.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/WebViewCommonVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Intro\ Screen/Controller/IntroVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/OTP\ Textfield/OTPTextField.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Profile/Controller/EditProfileVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Intro\ Screen/Views/CellForIntro.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Model/SubscriptionModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Tabbar/RootVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Report\ Tab/Views/WeeklyBarChartView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Tabbar/TabBarVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/WebServiceCall/WebAPIUrl.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/SupportVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/ExtensionUIView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/Device+Extension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UIViewExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UISearchBarExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Views/CellForChildList.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/NSStringExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Helper/Helper.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UITextFieldExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/ParentControlViewModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UIColorExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/ParentSelfControlDriveVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Views/ViewForChildPolicy.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Models/ChildLocation.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/UIImageViewExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/WebServiceCall/APIManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/UserDefault/STUserDefault.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/StringExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Report\ Tab/Views/WeeklyLineChartView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Profile/Controller/ProfileVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/GradientView1.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/GradientControl.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/HelpTicketVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/SessionManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/ResponseSerialization.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Response.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Child\ Module/Views/CellForDurationList.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/SettingsVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/SessionDelegate.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/ServerTrustPolicy.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/DispatchQueue+Alamofire.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/NetworkReachabilityManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/TaskDelegate.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/AFError.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Validation.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/AddPolicyVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Notification/Views/CellForNotification.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Request.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Report\ Tab/Views/CellForopSpeedList.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Model/UserSubscriptionResponseModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/ParameterEncoding.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/MultipartFormData.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Notifications.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Result.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Alamofire.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Alamofire/Timeline.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Location\ Manager/LocationManager.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/ParentControl/BackHeaderView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/Extension/DateExtension.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Report\ Tab/Model/ReportDataModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/OtherClasses/WebServiceCall/ApiCallViewModel.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Home\ Tab/Views/QRShareView.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/AppDelegate/AppDelegate.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/GaurdianDrive/View\ Controllers/Setting\ Tab/Controller/SubscriptionListVC.swift
+/Users/apple/Downloads/GaurdianDrive\ 2/BuildDerived/Build/Intermediates.noindex/GaurdianDrive.build/Debug-iphonesimulator/GaurdianDrive.build/DerivedSources/GeneratedAssetSymbols.swift

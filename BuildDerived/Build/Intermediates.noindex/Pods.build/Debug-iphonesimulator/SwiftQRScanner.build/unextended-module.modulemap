@@ -1,0 +1,10 @@
+framework module SwiftQRScanner {
+  umbrella header "SwiftQRScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftQRScanner.__Swift {
+  exclude header "SwiftQRScanner-Swift.h"
+}

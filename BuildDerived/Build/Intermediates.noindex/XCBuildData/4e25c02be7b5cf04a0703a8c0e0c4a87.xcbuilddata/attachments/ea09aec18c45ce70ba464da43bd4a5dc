@@ -1,0 +1,69 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView-primary-emit-module.dia",
+    "pch" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView-primary.swiftdeps"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/CountryPickerView/CountryPickerView/Bundle.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Bundle~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/CountryPickerView/CountryPickerView/CountryPickerView.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerView~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/CountryPickerView/CountryPickerView/CountryPickerViewController.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/CountryPickerViewController~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/CountryPickerView/CountryPickerView/Delegate+DataSource.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Delegate+DataSource~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/CountryPickerView/CountryPickerView/Extensions.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/Extensions~partial.swiftmodule"
+  },
+  "/Users/apple/Downloads/GaurdianDrive 2/Pods/CountryPickerView/CountryPickerView/NibView.swift" : {
+    "const-values" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.d",
+    "diagnostics" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.o",
+    "llvm-bc" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.bc",
+    "object" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.o",
+    "swift-dependencies" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView.swiftdeps",
+    "swiftmodule" : "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CountryPickerView.build/Objects-normal/x86_64/NibView~partial.swiftmodule"
+  }
+}

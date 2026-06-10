@@ -1,0 +1,5 @@
+
+module CountryPickerView.Swift {
+  header "CountryPickerView-Swift.h"
+  requires objc
+}

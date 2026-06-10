@@ -1,0 +1,24 @@
+{
+  "source": "/Users/apple/Downloads/GaurdianDrive 2/ReportExtension/TotalActivityView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld apps resolved",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Swipe down to close",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

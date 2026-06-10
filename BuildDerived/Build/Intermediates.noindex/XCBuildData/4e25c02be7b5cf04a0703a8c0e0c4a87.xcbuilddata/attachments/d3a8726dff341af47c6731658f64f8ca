@@ -1,0 +1,4 @@
+
+module FSPagerView.__Swift {
+  exclude header "FSPagerView-Swift.h"
+}

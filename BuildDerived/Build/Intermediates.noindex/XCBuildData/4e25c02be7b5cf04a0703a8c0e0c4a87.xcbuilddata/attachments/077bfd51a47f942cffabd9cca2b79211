@@ -1,0 +1,5 @@
+
+module FSPagerView.Swift {
+  header "FSPagerView-Swift.h"
+  requires objc
+}

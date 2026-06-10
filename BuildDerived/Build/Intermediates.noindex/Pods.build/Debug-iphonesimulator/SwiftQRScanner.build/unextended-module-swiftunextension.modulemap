@@ -1,0 +1,4 @@
+
+module SwiftQRScanner.__Swift {
+  exclude header "SwiftQRScanner-Swift.h"
+}

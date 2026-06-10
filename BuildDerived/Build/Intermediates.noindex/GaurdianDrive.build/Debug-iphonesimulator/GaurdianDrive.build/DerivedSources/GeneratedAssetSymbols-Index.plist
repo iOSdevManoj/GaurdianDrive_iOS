@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppBorderGray</string>
+			<key>relativePath</key>
+			<string>./Colors/AppBorderGray.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appBorderGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppDarkBlue</string>
+			<key>relativePath</key>
+			<string>./Colors/AppDarkBlue.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appDarkBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppDarkGreen</string>
+			<key>relativePath</key>
+			<string>./Colors/AppDarkGreen.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appDarkGreen</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppExtraDarkBlue</string>
+			<key>relativePath</key>
+			<string>./Colors/AppExtraDarkBlue.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appExtraDarkBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppFontBlue</string>
+			<key>relativePath</key>
+			<string>./Colors/AppFontBlue.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appFontBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppFullLightRed</string>
+			<key>relativePath</key>
+			<string>./Colors/AppFullLightRed.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appFullLightRed</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppGreen</string>
+			<key>relativePath</key>
+			<string>./Colors/AppGreen.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appGreen</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppLightBlue</string>
+			<key>relativePath</key>
+			<string>./Colors/AppLightBlue.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appLightBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppLightGreen</string>
+			<key>relativePath</key>
+			<string>./Colors/AppLightGreen.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appLightGreen</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppLightPurple</string>
+			<key>relativePath</key>
+			<string>./Colors/AppLightPurple.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appLightPurple</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppLightYellow</string>
+			<key>relativePath</key>
+			<string>./Colors/AppLightYellow.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appLightYellow</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppPink</string>
+			<key>relativePath</key>
+			<string>./Colors/AppPink.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appPink</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppRed</string>
+			<key>relativePath</key>
+			<string>./Colors/AppRed.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appRed</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBGLighGray</string>
+			<key>relativePath</key>
+			<string>./Colors/BGLighGray.colorset</string>
+			<key>swiftSymbol</key>
+			<string>bgLighGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBlackColor</string>
+			<key>relativePath</key>
+			<string>./Colors/BlackColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>black</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNamePlaceholderGray</string>
+			<key>relativePath</key>
+			<string>./Colors/PlaceholderGray.colorset</string>
+			<key>swiftSymbol</key>
+			<string>placeholderGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameWhiteColor</string>
+			<key>relativePath</key>
+			<string>./Colors/WhiteColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>white</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameLightTransparentColor</string>
+			<key>relativePath</key>
+			<string>./Colors/lightTransparentColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>lightTransparent</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImgIntro</string>
+			<key>relativePath</key>
+			<string>./Temp Images/Img_Intro.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imgIntro</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSplash</string>
+			<key>relativePath</key>
+			<string>./Logo_Splash/Splash.imageset</string>
+			<key>swiftSymbol</key>
+			<string>splash</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcAddAppGreen</string>
+			<key>relativePath</key>
+			<string>./Home/ic_addApp_green.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icAddAppGreen</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcAddChild</string>
+			<key>relativePath</key>
+			<string>./Home/ic_add_child.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icAddChild</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcApple</string>
+			<key>relativePath</key>
+			<string>./Login/ic_apple.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icApple</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcArrowRed</string>
+			<key>relativePath</key>
+			<string>./Profile/ic_arrow_red.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icArrowRed</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcBackBlue</string>
+			<key>relativePath</key>
+			<string>./OTP/ic_back_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icBackBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcBackwordBlue</string>
+			<key>relativePath</key>
+			<string>./Req_Access/ic_backword_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icBackwordBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcBellWhite</string>
+			<key>relativePath</key>
+			<string>./Home/ic_bell_white.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icBellWhite</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcChildBlue</string>
+			<key>relativePath</key>
+			<string>./Choose Role/ic_child_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icChildBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcChildPrivacy</string>
+			<key>relativePath</key>
+			<string>./Home/ic_child_privacy.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icChildPrivacy</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcCrossBlue</string>
+			<key>relativePath</key>
+			<string>./Profile/ic_cross_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icCrossBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcCrossRed</string>
+			<key>relativePath</key>
+			<string>./Child Home/ic_cross_red.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icCrossRed</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcDeleteRed</string>
+			<key>relativePath</key>
+			<string>./Settings/ic_delete_red.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icDeleteRed</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcDownBlue</string>
+			<key>relativePath</key>
+			<string>./Report/ic_down_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icDownBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcDownGray</string>
+			<key>relativePath</key>
+			<string>./Req_Access/ic_down_gray.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icDownGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcForwardGray</string>
+			<key>relativePath</key>
+			<string>./Req_Access/ic_forward_gray.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icForwardGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcGoogle</string>
+			<key>relativePath</key>
+			<string>./Login/ic_google.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icGoogle</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcLogoBlue</string>
+			<key>relativePath</key>
+			<string>./Logo_Splash/ic_logo_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icLogoBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcLogoName</string>
+			<key>relativePath</key>
+			<string>./Logo_Splash/ic_logo_name.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icLogoName</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcMapPin</string>
+			<key>relativePath</key>
+			<string>./Home/ic_map_pin.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icMapPin</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcNotificationTemp</string>
+			<key>relativePath</key>
+			<string>./Temp Images/ic_notification_temp.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icNotificationTemp</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcParentBlue</string>
+			<key>relativePath</key>
+			<string>./Choose Role/ic_parent_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icParentBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcPlaceholderGray</string>
+			<key>relativePath</key>
+			<string>./Home/ic_placeholder_gray.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icPlaceholderGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcPlusWhite</string>
+			<key>relativePath</key>
+			<string>./Home/ic_plus_white.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icPlusWhite</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcProfileBlue</string>
+			<key>relativePath</key>
+			<string>./Profile/ic_profile_blue.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icProfileBlue</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcRemoveAppRed</string>
+			<key>relativePath</key>
+			<string>./Home/ic_removeApp_red.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icRemoveAppRed</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcRightGreen</string>
+			<key>relativePath</key>
+			<string>./Req_Access/ic_right_green.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icRightGreen</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcWheelGray</string>
+			<key>relativePath</key>
+			<string>./Login/ic_wheel_gray.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icWheelGray</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcWhitePlaceholder</string>
+			<key>relativePath</key>
+			<string>./Home/ic_white_placeholder.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icWhitePlaceholder</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIconRemove</string>
+			<key>relativePath</key>
+			<string>./Settings/icon_remove.imageset</string>
+			<key>swiftSymbol</key>
+			<string>iconRemove</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImgLocations</string>
+			<key>relativePath</key>
+			<string>./Home/img_locations.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imgLocations</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImgTempFlag</string>
+			<key>relativePath</key>
+			<string>./Temp Images/img_temp_flag.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imgTempFlag</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImgWhiteBg</string>
+			<key>relativePath</key>
+			<string>./Temp Images/img_white_bg.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imgWhiteBg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTabHomeLight</string>
+			<key>relativePath</key>
+			<string>./Tabbar/tab_home_light.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tabHomeLight</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTabHomeWhite</string>
+			<key>relativePath</key>
+			<string>./Tabbar/tab_home_white.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tabHomeWhite</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTabReportLight</string>
+			<key>relativePath</key>
+			<string>./Tabbar/tab_report_light.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tabReportLight</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTabReportWhite</string>
+			<key>relativePath</key>
+			<string>./Tabbar/tab_report_white.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tabReportWhite</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTabSettingLight</string>
+			<key>relativePath</key>
+			<string>./Tabbar/tab_setting_light.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tabSettingLight</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTabSettingWhite</string>
+			<key>relativePath</key>
+			<string>./Tabbar/tab_setting_white.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tabSettingWhite</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTempAppImg</string>
+			<key>relativePath</key>
+			<string>./Temp Images/temp_app_img.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tempAppImg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/apple/Downloads/GaurdianDrive 2/GaurdianDrive/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTempProfile</string>
+			<key>relativePath</key>
+			<string>./Temp Images/temp_profile.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tempProfile</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

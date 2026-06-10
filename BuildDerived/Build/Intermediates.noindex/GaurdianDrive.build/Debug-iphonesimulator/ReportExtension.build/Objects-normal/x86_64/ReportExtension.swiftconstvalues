@@ -1,0 +1,82 @@
+[
+  {
+    "typeName": "ReportExtension.ReportExtension",
+    "mangledTypeName": "15ReportExtensionAAV",
+    "kind": "struct",
+    "file": "/Users/apple/Downloads/GaurdianDrive 2/ReportExtension/ReportExtension.swift",
+    "line": 12,
+    "conformances": [
+      "_DeviceActivity_SwiftUI.DeviceActivityReportExtension",
+      "ExtensionFoundation.AppExtension",
+      "Swift.Sendable",
+      "Swift.BitwiseCopyable"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "_DeviceActivity_SwiftUI.DeviceActivityReportExtension",
+        "conformanceDefiningModule": "ReportExtension"
+      },
+      {
+        "protocolName": "ExtensionFoundation.AppExtension",
+        "conformanceDefiningModule": "ReportExtension"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "ReportExtension"
+      },
+      {
+        "protocolName": "Swift.BitwiseCopyable",
+        "conformanceDefiningModule": "ReportExtension"
+      }
+    ],
+    "associatedTypeAliases": [
+      {
+        "typeAliasName": "Body",
+        "substitutedTypeName": "some _DeviceActivity_SwiftUI.DeviceActivityReportScene",
+        "substitutedMangledTypeName": "15ReportExtensionAAV4bodyQrvpQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "_DeviceActivity_SwiftUI.DeviceActivityReportScene"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      },
+      {
+        "typeAliasName": "Configuration",
+        "substitutedTypeName": "ExtensionKit.AppExtensionSceneConfiguration",
+        "substitutedMangledTypeName": "12ExtensionKit03AppA18SceneConfigurationV"
+      }
+    ],
+    "properties": [
+      {
+        "label": "body",
+        "type": "some _DeviceActivity_SwiftUI.DeviceActivityReportScene",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "true",
+        "file": "/Users/apple/Downloads/GaurdianDrive 2/ReportExtension/ReportExtension.swift",
+        "line": 13,
+        "valueKind": "Builder",
+        "value": {
+          "type": "_DeviceActivity_SwiftUI.DeviceActivityReportBuilder",
+          "members": [
+            {
+              "kind": "buildExpression",
+              "element": {
+                "valueKind": "InitCall",
+                "value": {
+                  "type": "ReportExtension.TotalActivityReport",
+                  "arguments": [
+                    {
+                      "label": "content",
+                      "type": "(Swift.Array<ReportExtension.SharedAppInfo>) -> ReportExtension.TotalActivityView",
+                      "valueKind": "Runtime"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

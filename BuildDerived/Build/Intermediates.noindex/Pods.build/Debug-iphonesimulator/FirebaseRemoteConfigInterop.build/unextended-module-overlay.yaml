@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Products/Debug-iphonesimulator/FirebaseRemoteConfigInterop/FirebaseRemoteConfigInterop.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseRemoteConfigInterop.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Products/Debug-iphonesimulator/FirebaseRemoteConfigInterop/FirebaseRemoteConfigInterop.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "FirebaseRemoteConfigInterop-Swift.h",
+      "external-contents": "/Users/apple/Downloads/GaurdianDrive 2/BuildDerived/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseRemoteConfigInterop.build/unextended-interface-header.h",
+    }]
+  }]
+}

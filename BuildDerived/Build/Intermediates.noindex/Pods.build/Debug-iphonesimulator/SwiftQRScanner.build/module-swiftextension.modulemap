@@ -1,0 +1,5 @@
+
+module SwiftQRScanner.Swift {
+  header "SwiftQRScanner-Swift.h"
+  requires objc
+}

@@ -1,0 +1,4 @@
+
+module CountryPickerView.__Swift {
+  exclude header "CountryPickerView-Swift.h"
+}
